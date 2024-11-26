@@ -1,0 +1,19 @@
+.content{
+    background-image: url('https://t4.ftcdn.net/jpg/01/88/31/87/360_F_188318709_751GG2Q93iwQMdTTsSEpM2eoWV6ENBQK.jpg'); /* Path to your background image */
+    background-size: cover; /* Make sure the image covers the whole background */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-attachment: fixed; 
+}
+
+.parent {
+    overflow: hidden;
+    white-space: nowrap;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.parent span {
+    display: inline-block;
+}
+
