@@ -4,8 +4,8 @@ const projects = [
   {
     title: "Airbnb Clone",
     description: "A clone of Airbnb with features like property listing and booking.",
-    github: "https://github.com/yourusername/airbnb-clone",
-    live: "https://airbnb-clone.example.com",
+    github: "https://github.com/ghuge123/Airbnb",
+    live: "https://wonderlust-m4dg.onrender.com/listings",
   },
   {
     title: "Conference",
@@ -17,7 +17,7 @@ const projects = [
     title: "Portfolio",
     description: "My personal portfolio showcasing my skills and projects.",
     github: "https://github.com/ghuge123/MyPortfolio",
-    live: "https://portfolio.example.com",
+    live: "https://portfolio-tau-flame-34.vercel.app/",
   },
   {
     title: "Amazon Clone",
