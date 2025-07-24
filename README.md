@@ -14,7 +14,7 @@ Welcome to my personal developer portfolio built using **React.js** and **Tailwi
 
 | Frontend  | Styling      | Deployment       |
 |-----------|--------------|------------------|
-| React.js  | Tailwind CSS | GitHub Pages / Vercel / Netlify |
+| React.js  | Tailwind CSS | Vercel           |
 
 ---
 
