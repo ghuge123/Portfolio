@@ -1,12 +1,66 @@
-<<<<<<< HEAD
-# Portfolio
-=======
-# React + Vite
+# 🧑‍💻 Dipak Ghuge's Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio built using **React.js** and **Tailwind CSS**. This portfolio showcases my skills, projects, internships, and achievements as a MERN stack developer and IT engineering student.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 3314b9e (Initial commit)
+## 🚀 Live Demo
+
+🌐 [View Live Portfolio](https://portfolio-tau-flame-34.vercel.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend  | Styling      | Deployment       |
+|-----------|--------------|------------------|
+| React.js  | Tailwind CSS | GitHub Pages / Vercel / Netlify |
+
+---
+
+## ✨ Features
+
+- 🧾 Clean, modern UI using Tailwind CSS
+- 🧑‍💼 About Me section with education & skills
+- 💼 Project showcase with live/demo links
+- 📄 Resume download option
+- 📱 Fully responsive on all devices
+- 🔗 Social media links with icons
+
+---
+
+## 📂 Folder Structure (Optional)
+
+📦portfolio
+┣ 📂public
+┣ 📂src
+┃ ┣ 📂components
+┃ ┣ 📂pages
+┃ ┣ 📂assets
+┃ ┣ 📜App.jsx
+┃ ┗ 📜index.js
+┗ 📜README.md
+
+
+---
+
+## 🧑‍💼 About Me
+
+> I'm Dipak Ghuge, a final-year IT student skilled in full-stack development (MERN), DSA in Java, and experienced in building real-world web apps. I've contributed to college systems, hackathons, and open-source projects.
+
+---
+
+## 📦 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/ghuge123/Portfolio.git
+
+# Move to the folder
+cd Portfolio
+
+# Install dependencies
+npm install
+
+# Run the app
+npm start
